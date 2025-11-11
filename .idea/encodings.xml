@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ds-starter/C1-Stack-Complexity/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ds-starter/C1-Stack-Complexity/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ds-starter/C2-LinkedList-Pitfalls/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ds-starter/C2-LinkedList-Pitfalls/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ds-starter/L1-Arrays-vs-LinkedLists/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ds-starter/L1-Arrays-vs-LinkedLists/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ds-starter/L10-Flatten-Multilevel/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ds-starter/L10-Flatten-Multilevel/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ds-starter/L13-Reorder-List/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ds-starter/L13-Reorder-List/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ds-starter/L2-Implement-SLL/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ds-starter/L2-Implement-SLL/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ds-starter/L3-Reverse-LinkedList/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ds-starter/L3-Reverse-LinkedList/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ds-starter/L4-Detect-Cycle/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ds-starter/L4-Detect-Cycle/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ds-starter/L5-Find-Middle/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ds-starter/L5-Find-Middle/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ds-starter/L6-Merge-Two-Sorted-Lists/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ds-starter/L6-Merge-Two-Sorted-Lists/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ds-starter/L7-Remove-Nth-From-End/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ds-starter/L7-Remove-Nth-From-End/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ds-starter/L8-Intersection/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ds-starter/L8-Intersection/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ds-starter/L9-Palindrome-LinkedList/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ds-starter/L9-Palindrome-LinkedList/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ds-starter/S1-Stack-LIFO/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ds-starter/S1-Stack-LIFO/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ds-starter/S10-Browser-History/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ds-starter/S10-Browser-History/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ds-starter/S2-Stack-Impl/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ds-starter/S2-Stack-Impl/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ds-starter/S3-Balanced-Parentheses/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ds-starter/S3-Balanced-Parentheses/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ds-starter/S4-Infix-To-Postfix/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ds-starter/S4-Infix-To-Postfix/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ds-starter/S5-Two-Stacks-One-Array/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ds-starter/S5-Two-Stacks-One-Array/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ds-starter/S6-Sort-Stack-Using-Stacks/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ds-starter/S6-Sort-Stack-Using-Stacks/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ds-starter/S7-Min-Stack/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ds-starter/S7-Min-Stack/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

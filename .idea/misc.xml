@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ds-starter/S7-Min-Stack/pom.xml" />
+        <option value="$PROJECT_DIR$/ds-starter/S1-Stack-LIFO/pom.xml" />
+        <option value="$PROJECT_DIR$/ds-starter/S2-Stack-Impl/pom.xml" />
+        <option value="$PROJECT_DIR$/ds-starter/L5-Find-Middle/pom.xml" />
+        <option value="$PROJECT_DIR$/ds-starter/L4-Detect-Cycle/pom.xml" />
+        <option value="$PROJECT_DIR$/ds-starter/L8-Intersection/pom.xml" />
+        <option value="$PROJECT_DIR$/ds-starter/L13-Reorder-List/pom.xml" />
+        <option value="$PROJECT_DIR$/ds-starter/L2-Implement-SLL/pom.xml" />
+        <option value="$PROJECT_DIR$/ds-starter/C1-Stack-Complexity/pom.xml" />
+        <option value="$PROJECT_DIR$/ds-starter/S10-Browser-History/pom.xml" />
+        <option value="$PROJECT_DIR$/ds-starter/S4-Infix-To-Postfix/pom.xml" />
+        <option value="$PROJECT_DIR$/ds-starter/L3-Reverse-LinkedList/pom.xml" />
+        <option value="$PROJECT_DIR$/ds-starter/C2-LinkedList-Pitfalls/pom.xml" />
+        <option value="$PROJECT_DIR$/ds-starter/L10-Flatten-Multilevel/pom.xml" />
+        <option value="$PROJECT_DIR$/ds-starter/L7-Remove-Nth-From-End/pom.xml" />
+        <option value="$PROJECT_DIR$/ds-starter/S3-Balanced-Parentheses/pom.xml" />
+        <option value="$PROJECT_DIR$/ds-starter/S5-Two-Stacks-One-Array/pom.xml" />
+        <option value="$PROJECT_DIR$/ds-starter/L1-Arrays-vs-LinkedLists/pom.xml" />
+        <option value="$PROJECT_DIR$/ds-starter/L9-Palindrome-LinkedList/pom.xml" />
+        <option value="$PROJECT_DIR$/ds-starter/L6-Merge-Two-Sorted-Lists/pom.xml" />
+        <option value="$PROJECT_DIR$/ds-starter/S6-Sort-Stack-Using-Stacks/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_25" default="true" project-jdk-name="openjdk-25" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
