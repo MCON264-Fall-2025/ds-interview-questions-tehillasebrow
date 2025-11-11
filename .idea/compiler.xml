@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="S3-Balanced-Parentheses" />
+        <module name="L3-Reverse-LinkedList" />
+        <module name="L4-Detect-Cycle" />
+        <module name="L13-Reorder-List" />
+        <module name="C2-LinkedList-Pitfalls" />
+        <module name="S10-Browser-History" />
+        <module name="S1-Stack-LIFO" />
+        <module name="L6-Merge-Two-Sorted-Lists" />
+        <module name="L1-Arrays-vs-LinkedLists" />
+        <module name="L10-Flatten-Multilevel" />
+        <module name="L5-Find-Middle" />
+        <module name="S7-Min-Stack" />
+        <module name="S5-Two-Stacks-One-Array" />
+        <module name="S2-Stack-Impl" />
+        <module name="C1-Stack-Complexity" />
+        <module name="L8-Intersection" />
+        <module name="L2-Implement-SLL" />
+        <module name="L7-Remove-Nth-From-End" />
+        <module name="L9-Palindrome-LinkedList" />
+        <module name="S6-Sort-Stack-Using-Stacks" />
+        <module name="S4-Infix-To-Postfix" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
